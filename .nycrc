@@ -1,0 +1,10 @@
+{
+  "all": true,
+  "per-file": false,
+  "check-coverage": true,
+  "lines": 70,
+  "skip-full": false,
+  "extension": [".ts"],
+  "include": "src/**/*.ts",
+  "reporter": ["html", "text", "lcov", "cobertura"]
+}

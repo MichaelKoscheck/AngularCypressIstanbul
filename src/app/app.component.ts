@@ -8,3 +8,7 @@ import { Component } from '@angular/core';
 export class AppComponent {
   title = 'istanbul';
 }
+
+export function add(num: any, num1: any) {
+  return num + num1
+}
